@@ -6,6 +6,6 @@ Once it's downloaded,
 
 1. Open the project folder on the Terminal / Command prompt window and 
 
-2. run npm install
+2. run npm install command
 
-3. Then, npm run dev to run the project
+3. Then, npm run dev command to run the project
